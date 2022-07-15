@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj": {}
+    "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon-Book-Store\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj": {
+    "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon-Book-Store\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj",
+        "projectUniqueName": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon-Book-Store\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj",
         "projectName": "Noppon Book Store",
-        "projectPath": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj",
+        "projectPath": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon-Book-Store\\Noppon Book Store\\Noppon Book Store\\Noppon Book Store.csproj",
         "packagesPath": "C:\\Users\\Knighttt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon Book Store\\Noppon Book Store\\obj\\",
+        "outputPath": "C:\\Users\\Knighttt\\source\\repos\\10.SQlite\\Noppon-Book-Store\\Noppon Book Store\\Noppon Book Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Knighttt\\AppData\\Roaming\\NuGet\\NuGet.Config",

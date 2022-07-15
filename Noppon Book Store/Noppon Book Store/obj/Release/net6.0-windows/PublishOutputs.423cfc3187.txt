@@ -1,0 +1,24 @@
+C:\Users\Knighttt\Desktop\Noppon Book Store\Noppon Book Store.exe
+C:\Users\Knighttt\Desktop\Noppon Book Store\Noppon Book Store.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\Noppon Book Store.deps.json
+C:\Users\Knighttt\Desktop\Noppon Book Store\Noppon Book Store.runtimeconfig.json
+C:\Users\Knighttt\Desktop\Noppon Book Store\Noppon Book Store.pdb
+C:\Users\Knighttt\Desktop\Noppon Book Store\Microsoft.Data.Sqlite.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\SQLitePCLRaw.core.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Knighttt\Desktop\Noppon Book Store\runtimes\win-x86\native\e_sqlite3.dll

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Noppon_Book_Store</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Noppon_Book_Store.App</StartupObject>
+    <ApplicationIcon>Still-Knight.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BookUI.png" />
+    <None Remove="CusUI.png" />
+    <None Remove="LoginUI.png" />
+    <None Remove="Menu.png" />
+    <None Remove="OrderUI.png" />
+    <None Remove="Still-Knight.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Still-Knight.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="6.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="BookUI.png" />
+    <Resource Include="CusUI.png" />
+    <Resource Include="LoginUI.png" />
+    <Resource Include="Menu.png" />
+    <Resource Include="OrderUI.png" />
+    <Resource Include="Still-Knight.png" />
+  </ItemGroup>
+
+</Project>

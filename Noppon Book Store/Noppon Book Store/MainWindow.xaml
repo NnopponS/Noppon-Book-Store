@@ -5,28 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Noppon_Book_Store"
         mc:Ignorable="d"
-        Title="Noppon_BookStore" Height="960" Width="540">
+        Title="Noppon_BookStore" Height="768" Width="432">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/LoginUI.png"/>
         </Grid.Background>
-        <TextBox x:Name="txtusername" HorizontalAlignment="Left" Height="39" Margin="59,481,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="419" GotFocus="txtusername_GotFocus" FontSize="24">
+        <TextBox x:Name="txtusername" HorizontalAlignment="Left" Height="38" Margin="48,380,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="320" GotFocus="txtusername_GotFocus" FontSize="20">
             <TextBox.Background>
                 <SolidColorBrush Color="White" Opacity="0.7"/>
             </TextBox.Background>
         </TextBox>
-        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="59,582,0,0" VerticalAlignment="Top" Width="419" Height="40" Password="Password" GotFocus="passwordBox_GotFocus" FontSize="24" Visibility="Visible">
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="48,460,0,0" VerticalAlignment="Top" Width="320" Height="38" Password="Password" GotFocus="passwordBox_GotFocus" FontSize="20" Visibility="Visible">
             <PasswordBox.Background>
                 <SolidColorBrush Color="White" Opacity="0.7"/>
             </PasswordBox.Background>
         </PasswordBox>
-        <Button x:Name="btnSignIn" Content="SIGN IN" HorizontalAlignment="Center" Margin="0,681,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btnSignIn_Click_1" FontSize="22" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Black" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnSignIn" Content="SIGN IN" HorizontalAlignment="Center" Margin="0,595,0,0" VerticalAlignment="Top" Width="116" Height="50" Click="btnSignIn_Click_1" FontSize="22" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Black" Background="{x:Null}" BorderBrush="{x:Null}"/>
         <Button x:Name="btnSignUp" Content="" HorizontalAlignment="Left" Height="34" Margin="382,639,0,0" VerticalAlignment="Top" Width="110" Background="{x:Null}" Visibility="Hidden"/>
-        <Button x:Name="btnExit" Content="EXIT TO DESKTOP" HorizontalAlignment="Left" Margin="116,778,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btnExit_Click" FontSize="22" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Red" Background="{x:Null}" BorderBrush="{x:Null}"/>
-        <Image HorizontalAlignment="Left" Height="84" Margin="226,860,0,0" VerticalAlignment="Top" Width="128" Source="/Still-Knight.png">
-            <Image.OpacityMask>
-                <ImageBrush ImageSource="/Still-Knight.png"/>
-            </Image.OpacityMask>
-        </Image>
+        <Button x:Name="btnExit" Content="EXIT TO DESKTOP" HorizontalAlignment="Center" Margin="0,676,0,0" VerticalAlignment="Top" Width="196" Height="50" Click="btnExit_Click" FontSize="22" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Red" Background="{x:Null}" BorderBrush="{x:Null}"/>
     </Grid>
 </Window>

@@ -5,15 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Noppon_Book_Store"
         mc:Ignorable="d"
-        Title="Menu" Height="960" Width="540">
+        Title="Menu" Height="768" Width="432">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Menu.png"/>
         </Grid.Background>
-        <Button x:Name="btnCustomers" Content="Customers Management" HorizontalAlignment="Center" VerticalAlignment="Top" Width="416" Height="71" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" FontSize="30" FontWeight="Bold" Click="btnCustomers_Click" Background="{x:Null}" BorderBrush="{x:Null}" Margin="0,373,0,0" Foreground="#FF0250B9"/>
-        <Button x:Name="btnbooks" Content="Books Management" HorizontalAlignment="Center" Margin="0,521,0,0" VerticalAlignment="Top" Width="416" Height="70" FontWeight="Bold" Click="btnbooks_Click" FontSize="30" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF0250B9"/>
-        <Button x:Name="btnorder" Content="Order Book" HorizontalAlignment="Center" Margin="0,667,0,0" VerticalAlignment="Top" Width="416" Height="71" FontWeight="Bold" Background="{x:Null}" Click="btnorder_Click" FontSize="30" BorderBrush="{x:Null}" Foreground="#FF0250B9"/>
-        <Button x:Name="btnSignOut" Content="SIGN OUT" HorizontalAlignment="Center" Margin="0,827,0,0" VerticalAlignment="Top" Width="304" Height="50" Click="btnSignOut_Click_1" FontSize="22" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Black" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnCustomers" Content="Customers Management" HorizontalAlignment="Left" VerticalAlignment="Top" Width="256" Height="40" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" FontSize="20" FontWeight="Bold" Click="btnCustomers_Click" Background="{x:Null}" BorderBrush="{x:Null}" Margin="22,306,0,0" Foreground="#FF0250B9"/>
+        <Button x:Name="btnbooks" Content="Books Management" HorizontalAlignment="Left" VerticalAlignment="Top" Width="204" Height="40" FontWeight="Bold" Click="btnbooks_Click" FontSize="20" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF0250B9" Margin="68,410,0,0"/>
+        <Button x:Name="btnorder" Content="Order Book" HorizontalAlignment="Left" Margin="148,517,0,0" VerticalAlignment="Top" Width="124" Height="40" FontWeight="Bold" Background="{x:Null}" Click="btnorder_Click" FontSize="20" BorderBrush="{x:Null}" Foreground="#FF0250B9"/>
+        <Button x:Name="btnSignOut" Content="SIGN OUT" HorizontalAlignment="Center" Margin="0,630,0,0" VerticalAlignment="Top" Width="304" Height="50" Click="btnSignOut_Click_1" FontSize="20" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="#FFFF3333" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Image HorizontalAlignment="Left" Height="63" Margin="313,294,0,0" VerticalAlignment="Top" Width="55" Source="/unknown-removebg-preview.png" Stretch="Uniform" StretchDirection="Both"/>
+        <Image HorizontalAlignment="Left" Height="63" Margin="313,400,0,0" VerticalAlignment="Top" Width="55" Source="/unknown.png" Stretch="Uniform" StretchDirection="Both"/>
+        <Image HorizontalAlignment="Left" Height="48" Margin="314,520,0,0" VerticalAlignment="Top" Width="55" Source="/CardOrder.png" Stretch="Uniform" StretchDirection="Both"/>
 
     </Grid>
 </Window>

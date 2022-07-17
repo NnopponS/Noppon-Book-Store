@@ -12,11 +12,14 @@
 
   <ItemGroup>
     <None Remove="BookUI.png" />
+    <None Remove="CardOrder.png" />
     <None Remove="CusUI.png" />
     <None Remove="LoginUI.png" />
     <None Remove="Menu.png" />
     <None Remove="OrderUI.png" />
     <None Remove="Still-Knight.png" />
+    <None Remove="unknown-removebg-preview.png" />
+    <None Remove="unknown.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,11 +32,14 @@
 
   <ItemGroup>
     <Resource Include="BookUI.png" />
+    <Resource Include="CardOrder.png" />
     <Resource Include="CusUI.png" />
     <Resource Include="LoginUI.png" />
     <Resource Include="Menu.png" />
     <Resource Include="OrderUI.png" />
     <Resource Include="Still-Knight.png" />
+    <Resource Include="unknown-removebg-preview.png" />
+    <Resource Include="unknown.png" />
   </ItemGroup>
 
 </Project>
